@@ -1,0 +1,19 @@
+{
+  "name": "yet-another-promise-lib",
+  "version": "1.0.0",
+  "description": "Yet another Promise library but cooler than the ones out there !!",
+  "main": "src/core/Promise.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "yet-another-promise-lib"
+  },
+  "keywords": [
+    "promise",
+    "javascript"
+  ],
+  "author": "Haseeb Hijazi Khan",
+  "license": "MIT"
+}
